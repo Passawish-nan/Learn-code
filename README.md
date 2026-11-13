@@ -9,3 +9,12 @@ I'm learning Git and GitHub.
 - Practice Python
 - Build a finance project
 - Explore AI automation
+
+## About This Project
+
+This is my first GitHub project.
+
+I want to learn:
+- Python programming
+- Financial analysis
+- AI automation
